@@ -42,7 +42,7 @@ function removeElement() {
 }
 
 // 每隔1秒执行一次代码
-setInterval(removeElement, 100);
+setInterval(removeElement, 1000);
 
 
 
